@@ -1,16 +1,52 @@
-## Hi there 👋
+# Olá 👋, eu sou Sinval Júnior
 
-<!--
-**sinval-jr/sinval-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Cientista de dados`**  **`Desenvolvedor Python`**
 
-Here are some ideas to get you started:
+<p align="left">
+  Olá! Sou Sinval Júnior, bem-vindo(a) ao meu perfil! 👋
+  
+  Estudante de Gestão da Informação (UFG) focado em transformar dados em resultados através da Inteligência Artificial.
+  
+  * 🎓 Cursando **Gestão da Informação** na UFG, onde construo minha base.
+  * 🧠 Focado em aprofundar meus conhecimentos em **Machine Learning**, **Análise Preditiva** e **Visualização de Dados**.
+  * 💻 Sempre trabalhando em algum projeto pessoal para aplicar o que aprendo (dê uma olhada nos meus repositórios fixados!).
+  * 🚀 Buscando oportunidades para colaborar em projetos que usem IA para criar soluções inovadoras e eficientes.
+  
+  Vamos nos conectar!
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/sinval-luiz-de-lima-júnior-0511b7232" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/sinvalluizjunior?igsh=MWhtZXBzMzFlcmV5Ng==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://github.com/sinval-jr" target="_blank">
+    <img src="https://img.shields.io/github/followers/sinval-jr?style=for-the-badge&logo=github&label=SEGUIDORES" alt="Seguidores no GitHub">
+  </a>
+</p>
+
+---
+
+### 💻 Linguagens e Tecnologias
+
+<p align="left">
+  <a href="https://devicon.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"  alt="R" width="40" height="40"/>
+  <a href="https://devicon.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="https://devicon.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
+  <a href="https://devicon.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
+  <a href="https://devicon.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" alt="Plotly" width="40" height="40"/>
+  <a href="https://devicon.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/>
+  <a href="https://devicon.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
+  <a href="https://devicon.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sinval-jr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinval-jr&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
