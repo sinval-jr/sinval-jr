@@ -42,11 +42,11 @@
   <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
 </p>
 
----
+---https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true
 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sinval-jr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sinval-jr&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinval-jr&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
