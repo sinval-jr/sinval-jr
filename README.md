@@ -44,9 +44,3 @@
 
 ---https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sinval-jr&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinval-jr&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
