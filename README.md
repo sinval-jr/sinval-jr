@@ -41,6 +41,3 @@
   <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
   <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
 </p>
-
----https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true
-
